@@ -13,6 +13,8 @@
 
 下载文件：`修主文件` → `index.html`
 
+收款码： →money_receiving_QR_code/index.html
+
 ## 许可证
 
 `Copyright © 2022 NianBroken. All rights reserved.`
