@@ -23,9 +23,9 @@
 
 ## 特别感谢
 
-- [Klauthmos](https://github.com/NianBroken)
+- [NianBroken](https://github.com/NianBroken)
   
--[Klauthmos](https://www.klaio.top/)
+- [Klauthmos](https://www.klaio.top/)
 
 
 ## 其他
